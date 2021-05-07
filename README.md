@@ -20,6 +20,7 @@ We do not accept following donations:
 * Broken discards
 * Unfinished DIY builds
 * Big outdated clunkers
+* Rechargeable battery powered tools without the batteries and/or chargers included
 
 We wish we had the resources to fix broken and unfinished tools. You are welcome to join the space to fix or finish your tool and donate it to the place. :)
 
